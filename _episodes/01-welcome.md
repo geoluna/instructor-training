@@ -17,7 +17,7 @@ keypoints:
 - "Learner motivation and prior knowledge vary widely, but can be assessed with a quick multiple choice question."
 ---
 
-## Before The Course Begins
+## Before The Course Begins 
 
 > ## Getting to know each other
 >
